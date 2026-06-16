@@ -13,8 +13,8 @@ Combino una sólida trayectoria en el entorno sanitario y administrativo con el 
 
 Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías Agile (Scrum).
 
-*   🎓 **Formación:** Grada en Desarrollo de Aplicaciones Multiplataforma (DAM) | Trasfondo en Medicina (UB) y Técnico Dental.
-*   🚀 **Áreas de interés:** Desarrollo de aplicaciones web y móviles aplicadas al sector sanitario (eHealth), digitalización de clínicas y optimización de procesos.
+*   🎓 **Formación:** Graduada en Desarrollo de Aplicaciones Multiplataforma (DAM) | Trasfondo en Medicina (UB) y Técnico Dental.
+*   🚀 **Áreas de interés:** Desarrollo de aplicaciones web y móviles aplicadas al sector sanitario (eHealth) y encontrar soluciones a los problemas de digitalización de las empresas.
 *   💼 **Contacto profesional:** Disponible a través de mi [Perfil de LinkedIn](https://linkedin.com/in/gemmasinma).
 
 ---
@@ -25,20 +25,20 @@ Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías A
 | :--- | :--- |
 | **Lenguajes** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white) |
 | **Frameworks y Web** | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white) ![DataFlex](https://img.shields.io/badge/DataFlex-004B87?style=flat-square) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&技巧Color=white) |
 | **Metodologías y Git** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_/_Scrum-008080?style=flat-square) |
 
 ---
 
-## 📊 Actividad y Métricas
-
-A continuación se detalla el resumen automatizado de mi actividad y lenguajes más utilizados en desarrollo:
+## 📊 Actividad y Métricas / Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gemmasima&show_icons=true&theme=neutral&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmasima&layout=compact&theme=neutral" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gemmasima&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmasima&layout=compact&theme=nord" alt="Top Languages" width="48%" />
 </p>
 
+---
+---
 
 # Hi there! I'm Gemma 👋
 
@@ -56,8 +56,11 @@ A results-driven technical profile combining an extensive background in healthca
 I am highly organized, detail-oriented, and fully adapted to remote work dynamics under Agile (Scrum) methodologies.
 
 *   🎓 **Education:** Associate Degree in Multiplatform Application Development (DAM) | Background in Medicine (UB) and Dental Technology.
-*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth), clinical workflow digitization, and process optimization.
-*   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma)
+*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth) and finding solutions to business digitalization challenges.
+*   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma).
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+*(The technologies match the list displayed above / Las tecnologías corresponden a la lista superior).*
