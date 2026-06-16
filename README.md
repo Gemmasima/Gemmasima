@@ -61,22 +61,3 @@ I am highly organized, detail-oriented, and fully adapted to remote work dynamic
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frameworks & Web** | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white) ![DataFlex](https://img.shields.io/badge/DataFlex-004B87?style=flat-square) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Methodologies & Git** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_/_Scrum-008080?style=flat-square) |
-
----
-
-## 📊 Activity & Metrics
-
-An automated overview of my recent GitHub activity and top programming languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gemmasima&show_icons=true&theme=neutral&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemmasima&layout=compact&theme=neutral" alt="Top Languages" width="48%" />
-</p>
