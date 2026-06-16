@@ -8,13 +8,13 @@
 
 ## 💻 Sobre mí
 
-Combino una sólida trayectoria en el entorno sanitario y administrativo con el desarrollo de software[cite: 1]. Mi objetivo principal es fusionar mis conocimientos de salud y empresa con la tecnología para diseñar soluciones digitales que optimicen la gestión clínica, hospitalaria y empresarial[cite: 1]. 
+Combino una sólida trayectoria en el entorno sanitario y administrativo con el desarrollo de software. Mi objetivo principal es fusionar mis conocimientos de salud y empresa con la tecnología para diseñar soluciones digitales que optimicen la gestión clínica, hospitalaria y empresarial. 
 
-Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías Agile (Scrum)[cite: 1].
+Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías Agile (Scrum).
 
-*   🎓 **Formación:** Graduada en Desarrollo de Aplicaciones Multiplataforma (DAM) | Trasfondo en Medicina (UB) y Técnico Dental[cite: 1].
-*   🚀 **Áreas de interés:** Desarrollo de aplicaciones web y móviles aplicadas al sector sanitario (eHealth) y encontrar soluciones a los problemas de digitalización de las empresas[cite: 1].
-*   💼 **Contacto profesional:** Disponible a través de mi [Perfil de LinkedIn](https://linkedin.com/in/gemmasinma)[cite: 1].
+*   🎓 **Formación:** Graduada en Desarrollo de Aplicaciones Multiplataforma (DAM) | Trasfondo en Medicina (UB) y Técnico Dental.
+*   🚀 **Áreas de interés:** Desarrollo de aplicaciones web y móviles aplicadas al sector sanitario (eHealth) y encontrar soluciones a los problemas de digitalización de las empresas.
+*   💼 **Contacto profesional:** Disponible a través de mi [Perfil de LinkedIn](https://linkedin.com/in/gemmasinma).
 
 ---
 
@@ -43,19 +43,19 @@ Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías A
 
 > [!TIP]
 > **Junior Multiplatform Application Developer (DAM)**
-> Leveraging over 15 years of experience across business environments and the healthcare sector, focused on digital health (eHealth) solutions[cite: 1].
+> Leveraging over 15 years of experience across business environments and the healthcare sector, focused on digital health (eHealth) solutions.
 
 ---
 
 ## 💻 About Me
 
-A results-driven technical profile combining an extensive background in healthcare administration and clinical environments with software development[cite: 1]. My primary objective is to bridge the gap between healthcare, business workflows, and technology to build digital solutions that optimize clinical, hospital, and enterprise operations[cite: 1].
+A results-driven technical profile combining an extensive background in healthcare administration and clinical environments with software development. My primary objective is to bridge the gap between healthcare, business workflows, and technology to build digital solutions that optimize clinical, hospital, and enterprise operations.
 
-I am highly organized, detail-oriented, and fully adapted to remote work dynamics under Agile (Scrum) methodologies[cite: 1].
+I am highly organized, detail-oriented, and fully adapted to remote work dynamics under Agile (Scrum) methodologies.
 
-*   🎓 **Education:** Associate Degree in Multiplatform Application Development (DAM) | Background in Medicine (UB) and Dental Technology[cite: 1].
-*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth) and finding solutions to business digitalization challenges[cite: 1].
-*   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma)[cite: 1].
+*   🎓 **Education:** Associate Degree in Multiplatform Application Development (DAM) | Background in Medicine (UB) and Dental Technology.
+*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth) and finding solutions to business digitalization challenges.
+*   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma).
 
 ---
 
