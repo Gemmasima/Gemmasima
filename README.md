@@ -2,7 +2,6 @@
 
 <p align="left">
   <strong>Desarrolladora de Aplicaciones Multiplataforma (DAM)</strong><br>
-  <em>Especializada en desarrollo lógico, seguridad en las comunicaciones y soluciones eficientes.</em>
 </p>
 
 ---
