@@ -53,11 +53,11 @@ A continuación se detalla el resumen automatizado de mi actividad y lenguajes m
 
 A results-driven technical profile combining an extensive background in healthcare administration and clinical environments with software development. My primary objective is to bridge the gap between healthcare, business workflows, and technology to build digital solutions that optimize clinical, hospital, and enterprise operations.
 
-I am highly organized, detail-oriented, and fully adapted to remote work dynamics under Agile (Scrum) methodologies[cite: 1].
+I am highly organized, detail-oriented, and fully adapted to remote work dynamics under Agile (Scrum) methodologies.
 
-*   🎓 **Education:** Associate Degree in Multiplatform Application Development (DAM) | Background in Medicine (UB) and Dental Technology[cite: 1].
-*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth), clinical workflow digitization, and process optimization[cite: 1].
-*   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma)[cite: 1].
+*   🎓 **Education:** Associate Degree in Multiplatform Application Development (DAM) | Background in Medicine (UB) and Dental Technology.
+*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth), clinical workflow digitization, and process optimization.
+*   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma)
 
 ---
 
