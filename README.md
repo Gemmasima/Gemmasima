@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Gemma 👋
 
-<!--
-**Gemmasima/Gemmasima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mí
+Soy desarrolladora enfocada en el desarrollo de aplicaciones (DAM). Me apasiona resolver problemas lógicos, trabajar con la seguridad en las comunicaciones y construir soluciones web eficientes. 
 
-Here are some ideas to get you started:
+- 🚀 Actualmente mejorando mis habilidades en Java
+- 🎓 Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 💼 Conéctate conmigo en [LinkedIn](https://linkedin.com/in/gemmasinma).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+
+### Lenguajes principales
+
+
+### Entornos y Git
+
+
+## 📊 Mis Estadísticas
+
