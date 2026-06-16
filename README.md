@@ -1,3 +1,4 @@
+![Banner de Gemma](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Gemma%20Simma&fontSize=50&animation=fadeIn)
 # ¡Hola! Soy Gemma 👋
 
 ## 💻 Sobre mí
