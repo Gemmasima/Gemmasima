@@ -1,27 +1,32 @@
 # ¡Hola! Soy Gemma 👋
 
 <p align="left">
-  <strong>Desarrolladora de Aplicaciones Multiplataforma (DAM)</strong><br>
+  <strong>Desarrolladora de Aplicaciones Multiplataforma (DAM) Junior</strong><br>
+  <em>Con más de 15 años de experiencia en gestión empresarial y el sector sanitario, enfocada en la digitalización de la salud (eHealth).</em>
 </p>
 
 ---
 
 ## 💻 Sobre mí
 
-Un perfil técnico enfocado en la resolución de problemas y el desarrollo estructurado. Acabo de titularme en el Grado Superior de DAM y busco aportar valor en proyectos de software robustos.
+Combino una sólida trayectoria en el entorno sanitario y administrativo con el desarrollo de software. Mi objetivo principal es fusionar mis conocimientos de salud y empresa con la tecnología para diseñar soluciones digitales que optimicen la gestión clínica, hospitalaria y empresarial. 
 
-*   🎓 **Educación:** Desarrollo de Aplicaciones Multiplataforma (DAM).
-*   🚀 **Áreas de interés:** Desarrollo de aplicaciones con Java y encontrar soluciones a los problemas de digitalización de las empresas.
+Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías Agile (Scrum).
+
+*   🎓 **Formación:** Grada en Desarrollo de Aplicaciones Multiplataforma (DAM) | Trasfondo en Medicina (UB) y Técnico Dental.
+*   🚀 **Áreas de interés:** Desarrollo de aplicaciones web y móviles aplicadas al sector sanitario (eHealth), digitalización de clínicas y optimización de procesos.
 *   💼 **Contacto profesional:** Disponible a través de mi [Perfil de LinkedIn](https://linkedin.com/in/gemmasinma).
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico y Herramientas
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) |
-| **Herramientas y Entornos** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks y Web** | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white) ![DataFlex](https://img.shields.io/badge/DataFlex-004B87?style=flat-square) ![HTML5/CSS3](https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Metodologías y Git** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Agile/Scrum](https://img.shields.io/badge/Agile_/_Scrum-008080?style=flat-square) |
 
 ---
 
