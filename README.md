@@ -1,8 +1,14 @@
 # ¡Hola! Soy Gemma 👋
 
+<p align="center">
+  <a href="#espanol">🇪🇸 Español</a> | <a href="#english">🇬🇧 English</a>
+</p>
+
+<a name="espanol"></a>
+
 > [!NOTE]
 > **Desarrolladora de Aplicaciones Multiplataforma (DAM) Junior**
-> Con más de 15 años de experiencia en gestión empresarial y el sector sanitario, enfocada en la digitalización de la salud (eHealth).
+> Titulada recientemente en DAM tras más de 15 años de experiencia en el sector sanitario y gestión empresarial. Actualmente continúo mi formación de manera autónoma, enfocada en la creación de aplicaciones y el desarrollo de soluciones sanitarias digitales (eHealth).
 
 ---
 
@@ -10,9 +16,9 @@
 
 Combino una sólida trayectoria en el entorno sanitario y administrativo con el desarrollo de software. Mi objetivo principal es fusionar mis conocimientos de salud y empresa con la tecnología para diseñar soluciones digitales que optimicen la gestión clínica, hospitalaria y empresarial. 
 
-Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías Agile (Scrum).
+Soy resolutiva, organizada y con experiencia en trabajar en remoto bajo metodologías Agile (Scrum).
 
-*   🎓 **Formación:** Graduada en Desarrollo de Aplicaciones Multiplataforma (DAM) | Trasfondo en Medicina (UB) y Técnico Dental.
+*   🎓 **Formación:** DAM | Técnico Dental | Medicina sin terminar (UB).
 *   🚀 **Áreas de interés:** Desarrollo de aplicaciones web y móviles aplicadas al sector sanitario (eHealth) y encontrar soluciones a los problemas de digitalización de las empresas.
 *   💼 **Contacto profesional:** Disponible a través de mi [Perfil de LinkedIn](https://linkedin.com/in/gemmasinma).
 
@@ -37,24 +43,25 @@ Soy resolutiva, organizada y habituada a trabajar en remoto bajo metodologías A
 </p>
 
 ---
----
+
+<a name="english"></a>
 
 # Hi there! I'm Gemma 👋
 
-> [!TIP]
-> **Junior Multiplatform Application Developer (DAM)**
-> Leveraging over 15 years of experience across business environments and the healthcare sector, focused on digital health (eHealth) solutions.
+> [!NOTE]
+> **Junior Multiplatform Application Developer**
+> Recently qualified in Multiplatform Application Development (DAM) after more than 15 years of experience in the healthcare sector and business management. I am currently continuing my training independently, focusing on application development and the creation of digital health solutions (eHealth).
 
 ---
 
 ## 💻 About Me
 
-A results-driven technical profile combining an extensive background in healthcare administration and clinical environments with software development. My primary objective is to bridge the gap between healthcare, business workflows, and technology to build digital solutions that optimize clinical, hospital, and enterprise operations.
+I combine a solid background in the healthcare and administrative field with software development. My main goal is to merge my knowledge of healthcare and business with technology to design digital solutions that optimize clinical, hospital, and business management.
 
-I am highly organized, detail-oriented, and fully adapted to remote work dynamics under Agile (Scrum) methodologies.
+I am resourceful and organized, with experience working remotely under Agile (Scrum) methodologies.
 
-*   🎓 **Education:** Associate Degree in Multiplatform Application Development (DAM) | Background in Medicine (UB) and Dental Technology.
-*   🚀 **Areas of Interest:** Web and mobile application development within the healthcare sector (eHealth) and finding solutions to business digitalization challenges.
+*   🎓 **Education:** DAM | Dental Technician | Some years of Medicine studies (UB).
+*   🚀 **Areas of Interest:** Web and mobile application development applied to the healthcare sector (eHealth), and finding solutions to corporate digitalization challenges.
 *   💼 **Professional Network:** Let's connect on my [LinkedIn Profile](https://linkedin.com/in/gemmasinma).
 
 ---
