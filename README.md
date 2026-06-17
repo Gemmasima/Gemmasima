@@ -24,7 +24,7 @@ Soy resolutiva, organizada y con experiencia en trabajar en remoto bajo metodolo
 
 ---
 
-## 🛠️ Stack Tecnológico y Herramientas
+## 🛠️ Stack Tecnológico y Herramientas / Tech Stack & Tools
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -66,6 +66,3 @@ I am resourceful and organized, with experience working remotely under Agile (Sc
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-*(The technologies match the list displayed above / Las tecnologías corresponden a la lista superior).*
